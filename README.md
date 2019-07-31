@@ -38,4 +38,7 @@ jump字段的列表长度作为决定是否显示交互按钮，长度为1时，
 text字段内容为文字显示内容
 
 
-![avatar](http://baidu.com/pic/doge.png)
+# 特别声明
+关注订阅号，关注天霸的一举一动
+
+![avatar](https://haoyuan336.github.io/Nine_deaths/erweima.jpeg)
